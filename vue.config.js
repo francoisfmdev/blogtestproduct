@@ -4,5 +4,6 @@ module.exports = {
       preProcessor: 'scss',
       patterns: ['./src/assets/styles/custom.scss']
     }
-  }
+  },
+  publicPath: ''
 }
